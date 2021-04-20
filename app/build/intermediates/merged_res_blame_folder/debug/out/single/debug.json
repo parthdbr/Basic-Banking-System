@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/anim_p_in.xml.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/anim/p_in.xml"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/drawable_history.xml.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/drawable/history.xml"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/drawable_image1.jpg.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/drawable/image1.jpg"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/anim_bottom.xml.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/anim/bottom.xml"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/menu_menu.xml.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/layout_activity_transfer_money.xml.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/layout/activity_transfer_money.xml"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/layout_activity_sendtouser.xml.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/layout/activity_sendtouser.xml"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/drawable_arrow.xml.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/drawable/arrow.xml"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/layout_activity_show_allusers.xml.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/layout/activity_show_allusers.xml"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/layout_transfer_history_list.xml.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/layout/transfer_history_list.xml"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/drawable_search.xml.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/drawable/search.xml"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/drawable_bank.png.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/drawable/bank.png"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/drawable_phone.xml.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/drawable/phone.xml"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/menu_menu_history.xml.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/menu/menu_history.xml"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/layout_activity_userdata.xml.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/layout/activity_userdata.xml"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/layout_activity_transfer_history.xml.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/layout/activity_transfer_history.xml"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/layout_userslist.xml.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/layout/userslist.xml"
+    },
+    {
+        "merged": "/home/pd/AndroidStudioProjects/Banking System/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/pd/AndroidStudioProjects/Banking System/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]
